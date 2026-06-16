@@ -1,5 +1,6 @@
 # Enhancement Chips: How Nintendo Cartridges Leveled Up
 * Presented at Sac Gamers Expo 2025
+* Presented at SoCal Gaming Expo 2026
 
 ![Preview Screenshot](launchpad.gif)
 ## Building
